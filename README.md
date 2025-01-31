@@ -1,18 +1,24 @@
 # NYC-Collison
  ## Introduction
  This document provides an in-depth analysis of traffic accidents in New York City using data from NYC Open Data. The study examines accident trends over time, identifies key contributing factors, and highlights high-risk locations.
+
+ 
 ## Project Requirements
 The analysis aims to answer the following key questions:
 1.What is the percentage of total accidents by month, and do any seasonal patterns emerge?
 2.How does accident frequency vary by day of the week and time of day?
 3.Which street has the highest number of accidents, and what percentage does it represent?
 4.What are the most common contributing factors for all accidents and fatal accidents specifically?
+
+
  ## Data Overview
 - **Source**: NYC Open Data
 - **File Type**: CSV
 - **Number of Records**: 238,421
 - **Number of Fields**: 18
 - **Data Structure**: Single dataset
+
+  
  ## Process and Tools Used
 ### 1.Data Cleaning
 - The dataset was cleaned using **Excel**, which included removing duplicate records, handling missing values, and standardizing formats.
@@ -21,6 +27,8 @@ The analysis aims to answer the following key questions:
 - Statistical calculations helped identify trends and patterns.
 ### 3. Data Visualization
 - Excel charts and graphs, such as **bar charts** and **line graphs**, were used to visually represent accident distributions and trends.
+
+  
 ##  Analysis and Results
 ### Monthly Accident Trends
 - The analysis of monthly accident rates indicates that **March** has the highest percentage of accidents, accounting for **10.53%** of total recorded incidents.
@@ -34,6 +42,13 @@ The analysis aims to answer the following key questions:
 ###  Contributing Factors
 - The leading cause of accidents is **driver carelessness** and **lack of attention**.
 -For fatal accidents, the primary cause remains **unspecified**, suggesting a need for further data refinement or classification.
+
+![Screenshot (2)](https://github.com/user-attachments/assets/c41897a0-f388-4168-98ba-f494ead87e95)
+
+
+
+
+
  ## Conclusion and Recommendations
 - **High-Risk Periods**: Enhanced traffic monitoring and enforcement during **Friday** peak hours may reduce accident frequency.
 - **High-Risk Locations**: Improved road safety measures on **Belt Parkway** should be considered.
